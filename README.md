@@ -3,3 +3,4 @@
 ## Colaboradores:
 
 - Omar Javier Purata
+- Hugo Segoviano
